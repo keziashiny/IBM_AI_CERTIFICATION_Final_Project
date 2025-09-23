@@ -57,7 +57,7 @@ The dataset contains coffee sales records including the following columns:
 ---
 
 ## **Files in This Repository**
-- `Coffee_Sales.py` – Jupyter notebook with code, analysis, and visualizations.  
+- `IBM.py` – Jupyter notebook with code, analysis, and visualizations.  
 - `FINAL REPORT.pdf` – PDF report generated from the notebook.  
 - `Coffe_sales.csv` – Dataset (or sample dataset if original is confidential).  
 
